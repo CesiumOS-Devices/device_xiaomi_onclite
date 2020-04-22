@@ -14,7 +14,7 @@ $(call inherit-product, device/xiaomi/onclite/device.mk)
 TARGET_GAPPS_ARCH:= arm64
 
 # Inherit some Cesium stuff.
-$(call inherit-product, vendor/aosp/config/common.mk)
+$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
 # Bootanimation res
 TARGET_BOOT_ANIMATION_RES := 720
