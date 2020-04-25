@@ -1,14 +1,10 @@
 [
  {
    "repository": "CesiumOS-Devices/android_kernel_xiaomi_onc",
-   "target_path": "kernel/xiaomi/onclite",
-   "branch": "Q",
-   "remote": "github"
+   "target_path": "kernel/xiaomi/onclite"
  },
  {
    "repository": "CesiumOS-Devices/android_vendor_xiaomi_onclite",
-   "target_path": "vendor/xiaomi/onclite",
-   "branch": "10.x",
-   "remote": "github"
+   "target_path": "vendor/xiaomi/onclite"
  }
 ]
